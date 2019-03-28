@@ -614,14 +614,14 @@ body {
         padding: 10px;
         width: 50%;
         position: absolute;
-        top: 22%;
+        top: 28%;
         left: 50%;
         transform: translate(-50%, -50%);
         mix-blend-mode: screen;
     }
     #whoami{
         margin-top: 40%;
-        margin-left: 35%;
+        margin-left: 37%;
     }
     #aboutheading{
         font-family: 'Quicksand', sans-serif;
@@ -675,5 +675,45 @@ body {
     }
     #parallax {
         height: 1750px;
+    }
+    #servicesheading {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 30px;
+        text-align: center;
+        background: rgba(255, 255, 255, 0.9);
+        color: black;
+        font-weight: bold;
+        margin: 0 auto;
+        padding: 10px;
+        width: 50%;
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        mix-blend-mode: screen;
+    }
+    #container4{
+        height: 2300px;
+
+    }
+    #serviceswrapper{
+        height: 2600px;
+    }
+    #otherenquires {
+        margin-top: -60%;
+    }
+    #contactform {
+        width: 400px;
+        height: 650px;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+    #forminputfields {
+        width: 350px;
+    }
+    #currentproject {
+        width: 400px;
+        margin-left: 10%;
+        margin-top: 10%;
     }
 }
