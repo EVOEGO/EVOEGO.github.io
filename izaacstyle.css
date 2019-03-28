@@ -27,6 +27,7 @@ html {
      transform: translate(-50%, -50%);
      mix-blend-mode: screen;
  }
+
  #whoami {
      margin-left: 46%;
      margin-top: 27%;
@@ -566,19 +567,19 @@ body {
     padding-top: 200px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
     .navbar {
         display: flex;
         justify-content: space-between;
         padding-bottom: 0;
         height: 50px;
         align-items: center;
-        font-size: 10px;
+        font-size: 9px;
     }
 
     .main-nav {
         display: flex;
-        margin-right: 30px;
+        margin-right: 50px;
         flex-direction: row;
         justify-content: flex-end;
     }
@@ -588,11 +589,11 @@ body {
     }
 
     .nav-links {
-        margin-left: 40px;
+        margin-left: 20px;
     }
 
     .logo {
-        margin-top: 0;
+        margin-top: 10;
     }
 
     .navbar-toggle {
@@ -603,5 +604,24 @@ body {
     .nav-links:hover {
         color: rgba(255, 255, 255, 1);
     }
-
+    #heading1{
+        font-family: 'Quicksand', sans-serif;
+        font-size: 40px;
+        text-align: center;
+        background: rgba(255, 255, 255, 0.9);
+        color: black;
+        font-weight: bold;
+        margin: 0 auto;
+        padding: 10px;
+        width: 50%;
+        position: absolute;
+        top: 25%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        mix-blend-mode: screen;
+    }
+    #whoami{
+        margin-top: 40%;
+        margin-left: 38%;
+    }
 }
