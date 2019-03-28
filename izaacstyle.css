@@ -706,6 +706,7 @@ body {
         width: 400px;
         height: 650px;
         margin-top: 10%;
+        margin-left: -15%
     }
     #forminputfields {
         width: 350px;
@@ -713,5 +714,7 @@ body {
     #currentproject {
         width: 400px;
         margin-top: 10%;
+        margin-left: -15%
+
     }
 }
