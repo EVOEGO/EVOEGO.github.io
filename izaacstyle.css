@@ -299,12 +299,12 @@ body {
 
 }
 #info{
-    margin-top: 15%;
+    margin-top: 20%;
+    padding-top: 60px;
 }
 #container {
-    top: 4%;
     text-align: center;
-    padding-top: 10px;
+    padding-top: 350px;
 }
 
 .label {
@@ -318,8 +318,8 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 #langauges {
-    height: 1133px;
-    margin-top: 32%;
+    height: 1575px;
+    margin-top: 22%;
     background: rgba(255, 255, 255, 0.9);
 }
 #container5 {
@@ -349,7 +349,8 @@ body {
 #controller1 {
     width: 600px;
     padding-top: 2%;
-    margin-left: 30%;
+    margin: 0 auto;
+    text-align: center;
 }
 
 
