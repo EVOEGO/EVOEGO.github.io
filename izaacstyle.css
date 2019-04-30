@@ -319,7 +319,7 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 #langauges {
-    height: 1575px;
+    height: 1642px;
     margin-top: 22%;
     background: rgba(255, 255, 255, 0.9);
 }
@@ -471,11 +471,15 @@ body {
 #container4 {
     padding-top: 8px;
     background: rgba(255, 255, 255, 0.9);;
-    height: 1200px;
+    height: 1203px;
     text-align: center;
     margin-top: 25%;
 }
 #cardtextbackground{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#cardtextbackgroundsubtext{
     padding-left: 5%;
     padding-right: 5%;
 }
@@ -541,6 +545,12 @@ body {
 #pricingtable {
     margin-top: 2%;
 
+}
+
+
+#otherenquires{
+    padding-left: 5%;
+    padding-right: 5%;
 }
 #scrollbutton {
     margin-top: 28%;
@@ -714,6 +724,7 @@ body {
         width: 100%;
         height: 650px;
         margin-top: 8%;
+
     }
     #forminputfields {
         width: 350px;
